@@ -86,20 +86,3 @@ BUY ORDERS:
 ---------------------------
 Current spread: $106 - $102 = $4
 ```
-
-## Future Enhancements
-
-- Support for multiple trading symbols
-- Order cancellation functionality
-- Different order types (market, limit, stop, etc.)
-- Performance optimizations for high-frequency trading
-- REST API for external order submission
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Inspired by real-world financial trading systems
-- Built as an educational tool to understand order matching algorithms 
